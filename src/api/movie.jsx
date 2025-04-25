@@ -3,7 +3,8 @@ import axios from "axios";
 //from TMDB API
 const headers = {
   accept: 'application/json',
-  Authorization: 'Bearer eyJhbGciOiJIUzI1NiJ9.eyJhdWQiOiJhZjQzYzU2MzVhYjcxZGI5NWEwOGUwNjE3ZjMxNDQ4ZCIsIm5iZiI6MTc0NTQxODg3OC4zNDgsInN1YiI6IjY4MDhmYTdlMTVhMWQ1YTYxNGFhZDk2MyIsInNjb3BlcyI6WyJhcGlfcmVhZCJdLCJ2ZXJzaW9uIjoxfQ.RseQssaO7kg7RKUd3KEnffAJaYv9gzY6hAoBB5hJQpY'
+  Authorization: 'xxx' //** API KEY
+  
 }
 
 //- home page -

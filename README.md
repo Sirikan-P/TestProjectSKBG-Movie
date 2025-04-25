@@ -19,6 +19,7 @@ Movies Skubies
 - promptpay-qr & qrcode
 
 API Provider: -https://www.themoviedb.org/ 
+replace API key in /api/movie.jsx
 ## Run
 
 ```bash
