@@ -15,10 +15,10 @@ Movies Skubies
 ## Tech Stack
 - React Vite JS
 - Zustand 
-- Tailwind CSS / Daisy Ui / Lulucide-react 
+- Tailwind CSS / Daisy Ui / lucide-react 
 - promptpay-qr & qrcode
 
-
+API Provider: -https://www.themoviedb.org/ 
 ## Run
 
 ```bash
